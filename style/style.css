@@ -35,14 +35,6 @@ ul.head_nav {
   max-width: 1500px;
 }
 
-.main_box {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 75%;
-  height: 85%;
-}
-
 .main_box_blue {
   position: absolute;
   top: 60%;
